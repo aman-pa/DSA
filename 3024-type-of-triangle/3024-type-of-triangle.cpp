@@ -1,15 +1,19 @@
 class Solution {
 public:
     string triangleType(vector<int>& nums) {
-        int c=0;
-        sort(nums.begin(), nums.end());
+        int a = nums[0];
+        int b = nums[1];
+        int c = nums[2];
 
-        if(nums[0] + nums[1] <= nums[2])
-        return "none";
-       map<int,int>mpp;
-       for(int x:nums)mpp[x]++;
-       if(mpp.size()==1)return "equilateral";
-       if(mpp.size()==2)return "isosceles";
-      else return "scalene";
+        if (a + b <= c || a + c <= b || b + c <= a)
+            return "none";
+
+        if (a == b && b == c)
+            return "equilateral";
+
+        if (a == b || b == c || a == c)
+            return "isosceles";
+
+        return "scalene";
     }
 };
