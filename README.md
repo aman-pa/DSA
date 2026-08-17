@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aman-pa/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman-pa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aman-pa/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/aman-pa/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aman-pa/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aman-pa/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/aman-pa/DSA/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman-pa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/aman-pa/DSA/tree/master/2029-stone-game-ix) |
 | [3024-type-of-triangle](https://github.com/aman-pa/DSA/tree/master/3024-type-of-triangle) |
 ## Sorting
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aman-pa/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aman-pa/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/aman-pa/DSA/tree/master/0198-house-robber) |
+| [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/aman-pa/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
