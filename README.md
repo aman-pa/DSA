@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman-pa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/aman-pa/DSA/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/aman-pa/DSA/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/aman-pa/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman-pa/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aman-pa/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aman-pa/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aman-pa/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aman-pa/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/aman-pa/DSA/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/aman-pa/DSA/tree/master/0392-is-subsequence) |
 | [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
 ## Bit Manipulation
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/aman-pa/DSA/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aman-pa/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## DP on Trees
 |  |
