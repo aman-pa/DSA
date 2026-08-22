@@ -1,57 +1,60 @@
 class Solution {
 public:
-    long long count(long long mid, vector<int>& coins) {
-        long long c = 0;
+
+    long long countSmaller(long long mid, vector<int>& coins) {
+        long long correctedCount = 0;
         int n = coins.size();
 
-        for (int mask = 1; mask < (1 << n); mask++) {
-            long long l = 1;
-            int cnt = 0;
+        for (int expressions = 1; expressions <= (1 << n) - 1; expressions++) {
+
+            long long lcm = 0;
+            long long order = 0;
 
             for (int i = 0; i < n; i++) {
-                if (mask & (1 << i)) {
-                    long long g = gcd(l, (long long)coins[i]);
 
-                    // Prevent LCM from becoming larger than mid
-                    if (l > mid / (coins[i] / g)) {
-                        l = mid + 1;
-                        break;
+                if (expressions & (1 << i)) {
+                    order++;
+
+                    if (lcm == 0) {
+                        lcm = coins[i];
                     }
-
-                    l = l / g * coins[i];
-                    cnt++;
+                    else {
+                        lcm = lcm * coins[i] / gcd(lcm, (long long)coins[i]);
+                    }
                 }
             }
 
-            if (l > mid)
-                continue;
-
-            if (cnt % 2 == 1)
-                c += mid / l;
-            else
-                c -= mid / l;
+            if (order % 2 == 0) {
+                correctedCount -= mid / lcm;
+            }
+            else {
+                correctedCount += mid / lcm;
+            }
         }
 
-        return c;
+        return correctedCount;
     }
 
     long long findKthSmallest(vector<int>& coins, int k) {
-        int m = *min_element(coins.begin(), coins.end());
 
-        long long low = m;
-        long long high = 1LL * m * k;
+        long long result = -1;
 
-        while (low <= high) {
-            long long mid = low + (high - low) / 2;
+        long long l = 1;
+        long long r = (long long)(*max_element(coins.begin(), coins.end())) * k;
 
-            long long c = count(mid, coins);
+        while (l <= r) {
 
-            if (c < k)
-                low = mid + 1;
-            else
-                high = mid - 1;
+            long long mid = l + (r - l) / 2;
+
+            if (countSmaller(mid, coins) >= k) {
+                result = mid;
+                r = mid - 1;
+            }
+            else {
+                l = mid + 1;
+            }
         }
 
-        return low;
+        return result;
     }
 };
