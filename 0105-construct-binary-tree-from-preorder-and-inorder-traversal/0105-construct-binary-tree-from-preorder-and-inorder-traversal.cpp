@@ -12,7 +12,7 @@
 class Solution {
 public:
     int search(vector<int>&inorder,int l,int r,int pre){
-        for(int i=l;i<=r;i++){
+        for(int i=0;i<=r;i++){
             if(inorder[i]==pre)return i;
         }
         return -1;
