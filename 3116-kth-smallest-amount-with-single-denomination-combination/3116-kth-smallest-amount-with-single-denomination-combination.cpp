@@ -5,7 +5,7 @@ public:
         long long correctedCount = 0;
         int n = coins.size();
 
-        for (int expressions = 1; expressions <= (1 << n) - 1; expressions++) {
+        for (int expressions = 1; expressions <= pow(2,n) - 1; expressions++) {
 
             long long lcm = 0;
             long long order = 0;
