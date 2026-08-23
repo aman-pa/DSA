@@ -11,20 +11,24 @@
  */
 class Solution {
 public:
-    int m=INT_MAX;
-    vector<int>ans;
+    int m = INT_MAX;
+    int prev = -1;
+
     int minDiffInBST(TreeNode* root) {
-            if(root==NULL)return 0;
-            if(root->left)
-            minDiffInBST(root->left);
-            ans.push_back(root->val);
-            if(root->right)
-            minDiffInBST(root->right);
-            for(int i=0;i<ans.size()-1;i++){
-                m=min(m,ans[i+1]-ans[i]);
-            }
-            return m;
-          
-        
+        if(root == NULL) return 0;
+
+        minDiffInBST(root->left);
+
+        if(prev == -1) {
+            prev = root->val;
+        }
+        else {
+            m = min(m, root->val - prev);
+            prev = root->val;
+        }
+
+        minDiffInBST(root->right);
+
+        return m;
     }
 };
