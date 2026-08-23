@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aman-pa/DSA/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman-pa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/aman-pa/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aman-pa/DSA/tree/master/2029-stone-game-ix) |
 | [3024-type-of-triangle](https://github.com/aman-pa/DSA/tree/master/3024-type-of-triangle) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aman-pa/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aman-pa/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman-pa/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aman-pa/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/aman-pa/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aman-pa/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aman-pa/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/aman-pa/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/aman-pa/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aman-pa/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/aman-pa/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aman-pa/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
