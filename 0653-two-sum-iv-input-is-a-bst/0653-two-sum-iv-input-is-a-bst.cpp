@@ -11,21 +11,24 @@
  */
 class Solution {
 public:
-    unordered_set<int> st;
-
-    bool dfs(TreeNode* root, int k) {
-        if (root == NULL)
-            return false;
-
-        if (st.find(k - root->val) != st.end())
-            return true;
-
-        st.insert(root->val);
-
-        return dfs(root->left, k) || dfs(root->right, k);
+    vector<int>ans;
+    void helper(TreeNode* root,int k){
+         if(root==NULL)return ;
+        findTarget(root->left,k);
+        ans.push_back(root->val);
+        findTarget(root->right,k);
     }
-
     bool findTarget(TreeNode* root, int k) {
-        return dfs(root, k);
+        if(root==NULL)return true;
+       helper(root,k);
+       int s=0,e=ans.size()-1;
+       if(ans.size()==1)return false;
+       while(s<e){
+        int sum=ans[s]+ans[e];
+        if(sum==k)return true;
+        if(sum>k)e--;
+        else s++;
+       }
+       return false;
     }
 };
