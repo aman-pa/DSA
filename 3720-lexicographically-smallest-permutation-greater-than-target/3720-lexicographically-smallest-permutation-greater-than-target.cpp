@@ -2,119 +2,79 @@ class Solution {
 public:
     string lexGreaterPermutation(string s, string target) {
 
+        // Store frequency of each character
         vector<int> fre(26, 0);
 
-        // Store frequency of characters in s
         for (char ch : s) {
             fre[ch - 'a']++;
         }
 
-        string ans;
+        string ans = "";
 
-        // Try to build ans equal to target
+        // Try to match target from left to right
         for (int i = 0; i < target.size(); i++) {
 
-            char ch = target[i];
-
-            // If current target character is available,
-            // use it and continue
-            if (fre[ch - 'a'] > 0) {
-                ans.push_back(ch);
-                fre[ch - 'a']--;
-                continue;
+            // Same character is available
+            if (fre[target[i] - 'a'] > 0) {
+                ans.push_back(target[i]);
+                fre[target[i] - 'a']--;
             }
 
-            // Current character is not available,
-            // so try to find a bigger character
-            int idx = ch - 'a' + 1;
-
-            for (; idx < 26; idx++) {
-
-                if (fre[idx] > 0) {
-
-                    // Use the smallest bigger character
-                    fre[idx]--;
-                    ans.push_back((char)(idx + 'a'));
-
-                    // Once ans is bigger than target,
-                    // put all remaining characters in ascending order
-                    for (int j = 0; j < 26; j++) {
-                        ans.append(fre[j], (char)(j + 'a'));
-                    }
-
-                    return ans;
-                }
-            }
-
-            // Could not find a bigger character,
-            // so go back and change an earlier position
-            while (ans.size() > 0) {
-
-                int last_idx = ans.size() - 1;
-                int last_char = ans.back();
-
-                // Remove the last character from ans
-                ans.pop_back();
-
-                // Return that character to frequency array
-                fre[last_char - 'a']++;
-
-                // Try to find a character bigger than
-                // target[last_idx]
-                idx = target[last_idx] - 'a' + 1;
+            else {
+                // Same character is not available,
+                // so try to find the smallest greater character
+                int idx = target[i] - 'a' + 1;
 
                 for (; idx < 26; idx++) {
 
                     if (fre[idx] > 0) {
 
-                        // Use the bigger character
+                        // Once we choose a greater character,
+                        // answer is already greater than target
+                        ans.push_back(char(idx + 'a'));
                         fre[idx]--;
-                        ans.push_back((char)(idx + 'a'));
 
-                        // Fill remaining characters
-                        // in ascending order
+                        // Put remaining characters in ascending order
                         for (int j = 0; j < 26; j++) {
-                            ans.append(fre[j], (char)(j + 'a'));
+                            ans.append(fre[j], char(j + 'a'));
                         }
 
                         return ans;
                     }
                 }
-            }
 
-            return "";
+                // No greater character found at this position.
+                // Stop forward matching and backtrack.
+                break;
+            }
         }
 
-        // We created ans equal to target.
-        // Therefore, go backwards and try to make
-        // an earlier character bigger.
+        // Backtrack from the last matched character
         while (ans.size() > 0) {
 
             int last_idx = ans.size() - 1;
             int last_char = ans.back();
 
-            // Remove last character
+            // Remove the last character from ans
             ans.pop_back();
 
-            // Restore it to frequency array
+            // Return it to the frequency array
             fre[last_char - 'a']++;
 
-            // Look for a character bigger than
-            // target[last_idx]
+            // Try to put a character greater than target[last_idx]
             int idx = target[last_idx] - 'a' + 1;
 
             for (; idx < 26; idx++) {
 
                 if (fre[idx] > 0) {
 
-                    // Use the bigger character
+                    // Use the greater character
                     fre[idx]--;
-                    ans.push_back((char)(idx + 'a'));
+                    ans.push_back(char(idx + 'a'));
 
-                    // Fill remaining characters
-                    // in ascending order
+                    // Fill remaining characters in ascending order
                     for (int j = 0; j < 26; j++) {
-                        ans.append(fre[j], (char)(j + 'a'));
+                        ans.append(fre[j], char(j + 'a'));
                     }
 
                     return ans;
@@ -122,6 +82,7 @@ public:
             }
         }
 
+        // No permutation is greater than target
         return "";
     }
 };
