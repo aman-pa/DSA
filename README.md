@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aman-pa/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aman-pa/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aman-pa/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0137-single-number-ii](https://github.com/aman-pa/DSA/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/aman-pa/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aman-pa/DSA/tree/master/0213-house-robber-ii) |
 | [0260-single-number-iii](https://github.com/aman-pa/DSA/tree/master/0260-single-number-iii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/aman-pa/DSA/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/aman-pa/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/aman-pa/DSA/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/aman-pa/DSA/tree/master/1386-cinema-seat-allocation) |
