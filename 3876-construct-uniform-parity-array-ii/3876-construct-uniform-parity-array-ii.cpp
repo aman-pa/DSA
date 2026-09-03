@@ -12,7 +12,7 @@ public:
         for(int x:nums1){
             if(x<smalleven&&x%2==0)smalleven=x;
             if(x<smallodd&&x%2!=0)smallodd=x;
-            if(x<smallest)x=smallest;
+            if(x<smallest)smallest=x;
         }
 
         sort(nums1.begin(),nums1.end());
