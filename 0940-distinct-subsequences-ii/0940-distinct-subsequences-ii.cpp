@@ -1,6 +1,7 @@
 class Solution {
 public:
     int distinctSubseqII(string s) {
+        //chape hai kewal
         int n = s.size();
         int mod = 1e9 + 7;
 
