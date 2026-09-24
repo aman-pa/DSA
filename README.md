@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aman-pa/DSA/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aman-pa/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aman-pa/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aman-pa/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aman-pa/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/aman-pa/DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aman-pa/DSA/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aman-pa/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aman-pa/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/aman-pa/DSA/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/aman-pa/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/aman-pa/DSA/tree/master/0860-lemonade-change) |
