@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/aman-pa/DSA/tree/master/0213-house-robber-ii) |
 | [0260-single-number-iii](https://github.com/aman-pa/DSA/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/aman-pa/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/aman-pa/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aman-pa/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/aman-pa/DSA/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/aman-pa/DSA/tree/master/0605-can-place-flowers) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aman-pa/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/aman-pa/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aman-pa/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/aman-pa/DSA/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/aman-pa/DSA/tree/master/0692-top-k-frequent-words) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aman-pa/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aman-pa/DSA/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/aman-pa/DSA/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/aman-pa/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0940-distinct-subsequences-ii](https://github.com/aman-pa/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman-pa/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/aman-pa/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aman-pa/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/aman-pa/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aman-pa/DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/aman-pa/DSA/tree/master/0605-can-place-flowers) |
 | [0846-hand-of-straights](https://github.com/aman-pa/DSA/tree/master/0846-hand-of-straights) |
