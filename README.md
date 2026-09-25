@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aman-pa/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aman-pa/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/aman-pa/DSA/tree/master/1046-last-stone-weight) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aman-pa/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman-pa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aman-pa/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/aman-pa/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/aman-pa/DSA/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/aman-pa/DSA/tree/master/0836-rectangle-overlap) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aman-pa/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman-pa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aman-pa/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/aman-pa/DSA/tree/master/0605-can-place-flowers) |
 | [0846-hand-of-straights](https://github.com/aman-pa/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/aman-pa/DSA/tree/master/0860-lemonade-change) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aman-pa/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1386-cinema-seat-allocation](https://github.com/aman-pa/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aman-pa/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/aman-pa/DSA/tree/master/1927-sum-game) |
