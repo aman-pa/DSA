@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman-pa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/aman-pa/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/aman-pa/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/aman-pa/DSA/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/aman-pa/DSA/tree/master/0257-binary-tree-paths) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aman-pa/DSA/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/aman-pa/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/aman-pa/DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aman-pa/DSA/tree/master/0115-distinct-subsequences) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aman-pa/DSA/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/aman-pa/DSA/tree/master/0257-binary-tree-paths) |
 | [1096-brace-expansion-ii](https://github.com/aman-pa/DSA/tree/master/1096-brace-expansion-ii) |
 ## Binary Search Tree
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aman-pa/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aman-pa/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman-pa/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aman-pa/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
