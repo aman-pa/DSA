@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aman-pa/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman-pa/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aman-pa/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aman-pa/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1701-average-waiting-time](https://github.com/aman-pa/DSA/tree/master/1701-average-waiting-time) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/aman-pa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aman-pa/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aman-pa/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/aman-pa/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aman-pa/DSA/tree/master/1927-sum-game) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/aman-pa/DSA/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aman-pa/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aman-pa/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aman-pa/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/aman-pa/DSA/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aman-pa/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aman-pa/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aman-pa/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/aman-pa/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman-pa/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aman-pa/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/aman-pa/DSA/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aman-pa/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -469,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aman-pa/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/aman-pa/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aman-pa/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -506,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aman-pa/DSA/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -562,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aman-pa/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aman-pa/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
@@ -576,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aman-pa/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aman-pa/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/aman-pa/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -605,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aman-pa/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
@@ -683,4 +693,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/aman-pa/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
