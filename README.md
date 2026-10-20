@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aman-pa/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aman-pa/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aman-pa/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/aman-pa/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman-pa/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aman-pa/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aman-pa/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aman-pa/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/aman-pa/DSA/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aman-pa/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/aman-pa/DSA/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/aman-pa/DSA/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aman-pa/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aman-pa/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aman-pa/DSA/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/aman-pa/DSA/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/aman-pa/DSA/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aman-pa/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aman-pa/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aman-pa/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
