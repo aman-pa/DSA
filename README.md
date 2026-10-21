@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aman-pa/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aman-pa/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aman-pa/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/aman-pa/DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/aman-pa/DSA/tree/master/1046-last-stone-weight) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aman-pa/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman-pa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/aman-pa/DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/aman-pa/DSA/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aman-pa/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/aman-pa/DSA/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aman-pa/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/aman-pa/DSA/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aman-pa/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/aman-pa/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/aman-pa/DSA/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/aman-pa/DSA/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aman-pa/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/aman-pa/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aman-pa/DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/aman-pa/DSA/tree/master/1020-number-of-enclaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aman-pa/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/aman-pa/DSA/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/aman-pa/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/aman-pa/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/aman-pa/DSA/tree/master/1020-number-of-enclaves) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aman-pa/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aman-pa/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aman-pa/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
