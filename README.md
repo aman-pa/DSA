@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/aman-pa/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aman-pa/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aman-pa/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/aman-pa/DSA/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/aman-pa/DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/aman-pa/DSA/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aman-pa/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/aman-pa/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aman-pa/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/aman-pa/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/aman-pa/DSA/tree/master/0785-is-graph-bipartite) |
 | [0965-univalued-binary-tree](https://github.com/aman-pa/DSA/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aman-pa/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/aman-pa/DSA/tree/master/0994-rotting-oranges) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/aman-pa/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aman-pa/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aman-pa/DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/aman-pa/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/aman-pa/DSA/tree/master/1020-number-of-enclaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -729,10 +732,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aman-pa/DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/aman-pa/DSA/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/aman-pa/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/aman-pa/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/aman-pa/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
