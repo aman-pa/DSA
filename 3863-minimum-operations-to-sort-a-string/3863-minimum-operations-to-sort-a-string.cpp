@@ -15,17 +15,11 @@ public:
         if (s[0] == mn || s[n - 1] == mx)
             return 1;
 
-        if (s[0] != mx && s[n - 1] != mn)
-            return 2;
-
-        if (s[0] == mx && s[n - 1] == mn) {
-            for (int i = 1; i < n - 1; i++) {
-                if (s[i] == mx || s[i] == mn)
-                    return 2;
-            }
-            return 3;
+        for (int i = 1; i < n - 1; i++) {
+            if (s[i] == mn || s[i] == mx)
+                return 2;
         }
 
-        return 2;
+        return 3;
     }
 };
