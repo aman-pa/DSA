@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/aman-pa/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aman-pa/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman-pa/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1514-path-with-maximum-probability](https://github.com/aman-pa/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aman-pa/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/aman-pa/DSA/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/aman-pa/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aman-pa/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1514-path-with-maximum-probability](https://github.com/aman-pa/DSA/tree/master/1514-path-with-maximum-probability) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aman-pa/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aman-pa/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/aman-pa/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aman-pa/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/aman-pa/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1514-path-with-maximum-probability](https://github.com/aman-pa/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/aman-pa/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Fermat's Little Theorem
@@ -785,8 +788,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aman-pa/DSA/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/aman-pa/DSA/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aman-pa/DSA/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/aman-pa/DSA/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
