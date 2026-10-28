@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/aman-pa/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/aman-pa/DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1631-path-with-minimum-effort](https://github.com/aman-pa/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aman-pa/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aman-pa/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1701-average-waiting-time](https://github.com/aman-pa/DSA/tree/master/1701-average-waiting-time) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aman-pa/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aman-pa/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aman-pa/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1631-path-with-minimum-effort](https://github.com/aman-pa/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aman-pa/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aman-pa/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aman-pa/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aman-pa/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/aman-pa/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aman-pa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/aman-pa/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aman-pa/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aman-pa/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/aman-pa/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/aman-pa/DSA/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/aman-pa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/aman-pa/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aman-pa/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aman-pa/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -678,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/aman-pa/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aman-pa/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1631-path-with-minimum-effort](https://github.com/aman-pa/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aman-pa/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aman-pa/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -693,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/aman-pa/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aman-pa/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/aman-pa/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/aman-pa/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aman-pa/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/aman-pa/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Matrix
@@ -708,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/aman-pa/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/aman-pa/DSA/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aman-pa/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/aman-pa/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aman-pa/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aman-pa/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aman-pa/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -816,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/aman-pa/DSA/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/aman-pa/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/aman-pa/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Bidirectional Search
 |  |
 | ------- |
