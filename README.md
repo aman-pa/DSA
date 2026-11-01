@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aman-pa/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/aman-pa/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aman-pa/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aman-pa/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/aman-pa/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/aman-pa/DSA/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/aman-pa/DSA/tree/master/0542-01-matrix) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aman-pa/DSA/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aman-pa/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/aman-pa/DSA/tree/master/0836-rectangle-overlap) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aman-pa/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman-pa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
