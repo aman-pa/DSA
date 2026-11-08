@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aman-pa/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman-pa/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/aman-pa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aman-pa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aman-pa/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aman-pa/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/aman-pa/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aman-pa/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/aman-pa/DSA/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aman-pa/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/aman-pa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/aman-pa/DSA/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aman-pa/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aman-pa/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/aman-pa/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aman-pa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aman-pa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/aman-pa/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aman-pa/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/aman-pa/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/aman-pa/DSA/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/aman-pa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aman-pa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/aman-pa/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aman-pa/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -715,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/aman-pa/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/aman-pa/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aman-pa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aman-pa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aman-pa/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/aman-pa/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aman-pa/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -750,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/aman-pa/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aman-pa/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/aman-pa/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aman-pa/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aman-pa/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aman-pa/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aman-pa/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
