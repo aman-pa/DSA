@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman-pa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/aman-pa/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aman-pa/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aman-pa/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/aman-pa/DSA/tree/master/0076-minimum-window-substring) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aman-pa/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aman-pa/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aman-pa/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/aman-pa/DSA/tree/master/0055-jump-game) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aman-pa/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/aman-pa/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/aman-pa/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aman-pa/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -912,4 +915,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aman-pa/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aman-pa/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
